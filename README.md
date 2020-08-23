@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Salesforce Organizer](https://github.com/pelayochristian/salesforce-organizer)
 
-- 👨‍💻 Check my website [https://www.christianpelayo.com/](https://www.christianpelayo.com/)
+- 👨‍💻 Check my website [https://www.christianpelayo.com/](christianpelayo.com)
 
 - 💬 Ask me about **enterprise application as well as web development, I am happy to help.**
 
