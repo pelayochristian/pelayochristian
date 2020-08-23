@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">Christian Pelayo is a Software Engineer with experience in software development in web & enterprise applications development using Java EE and Spring Framework technologies as well in related front-end frameworks.</h3>
+<h3 align="center">Christian Pelayo is a Software Engineer with experience in software development in web & enterprise applications development using Java EE's, Spring Framework technologies and related front-end frameworks.</h3>
 
 <hr/>
 <p><strong>Talking about Personal Stuffs:</strong></p>
