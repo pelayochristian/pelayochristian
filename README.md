@@ -2,7 +2,10 @@
 
 <h3 align="center">Christian Pelayo is a Software Engineer with experience in software development in web & enterprise applications development using Java EE's, Spring Framework technologies and related front-end frameworks.</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pelayochristian" alt="pelayochristian" /> </p>
+
 <p align="center">
+    
     <a href="https://twitter.com/iamchanpelayo" target="blank">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
@@ -15,8 +18,8 @@
 </p>
 
 <hr/>
+
 ### Talking about Personal Stuffs:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pelayochristian" alt="pelayochristian" /> </p>
 
 - 🔭 I’m currently working on [Salesforce Organizer](https://github.com/pelayochristian/salesforce-organizer)
 
@@ -29,7 +32,9 @@
 - 📫 How to reach me **pelayochristian.dev@gmail.com**
 
 <hr/>
+
 ### Languages and Tools:
+
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> 
