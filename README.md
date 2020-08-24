@@ -5,7 +5,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pelayochristian" alt="pelayochristian" /> </p>
 
 <p align="center">
-    
     <a href="https://twitter.com/iamchanpelayo" target="blank">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
