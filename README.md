@@ -33,27 +33,33 @@
 <hr/>
 
 ### Languages and Tools:
-<summary><h5>:zap: Frontend</h5></summary>
-<p>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/>
+<table>
+<tr>
+    <td><h5>:zap: Frontend</h5></td>
+    <td><h5>:zap: Backend</h5></td>
+</tr>
+<tr>
+    <td valign="top"> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> 
+        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/>
 </p>
-
-<summary><h5>:zap: Backend</h5></summary>
-<p>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/>
-</p>
-
+    </td>
+    <td valign="top"> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/>
+    </td>
+ </tr>
+ </table>
+ 
 <summary><h5>:zap: Databases</h5></summary>
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
