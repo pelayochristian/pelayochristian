@@ -58,7 +58,7 @@
         <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26" height="26"/> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="26" height="26"/>
     </td>
-     <td valign="top" width="10%">
+     <td valign="top" width="20%">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26" height="26"/> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26"/> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="26" height="26"/>
@@ -75,6 +75,6 @@
 
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelayochristian&hide=html&theme=dracula" alt="pelayochristian" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pelayochristian&show_icons=true&theme=dracula" alt="pelayochristian" /></p>\
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pelayochristian&show_icons=true&theme=dracula" alt="pelayochristian" /></p>
 
 [website]:https://www.christianpelayo.com
