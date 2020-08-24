@@ -50,5 +50,4 @@
 </p>
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelayochristian&hide=html" alt="pelayochristian" /></p>
-<hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pelayochristian&show_icons=true" alt="pelayochristian" /></p>
