@@ -34,7 +34,7 @@
 
 ### Languages and Tools:
 <summary><h5>:zap: Frontend</h5></summary>
-<p align="left">
+<p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> 
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> 
@@ -46,8 +46,8 @@
     <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/>
 </p>
 
-<summary align="center"><h5>:zap: Backend</h5></summary>
-<p align="center">
+<summary><h5>:zap: Backend</h5></summary>
+<p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
