@@ -3,13 +3,19 @@
 <h3 align="center">Christian Pelayo is a Software Engineer with experience in software development in web & enterprise applications development using Java EE's, Spring Framework technologies and related front-end frameworks.</h3>
 
 <p align="center">
-    <a href="https://instagram.com/_chanpelayo" target="blank">
+    <a href="https://twitter.com/iamchanpelayo" target="blank">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+     <a href="https://linkedin.com/in/christian-pelayo" target="blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+     <a href="https://instagram.com/_chanpelayo" target="blank">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </p>
 
 <hr/>
-## Talking about Personal Stuffs:
+### Talking about Personal Stuffs:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pelayochristian" alt="pelayochristian" /> </p>
 
 - 🔭 I’m currently working on [Salesforce Organizer](https://github.com/pelayochristian/salesforce-organizer)
@@ -23,15 +29,7 @@
 - 📫 How to reach me **pelayochristian.dev@gmail.com**
 
 <hr/>
-## Connect with me:
-<p align="left">
-<a href="https://twitter.com/iamchanpelayo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamchanpelayo" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/christian-pelayo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christian-pelayo" height="30" width="30" /></a>
-<a href="https://instagram.com/_chanpelayo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_chanpelayo" height="30" width="30" /></a>
-</p>
-
-<hr/>
-## Languages and Tools:
+### Languages and Tools:
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> 
