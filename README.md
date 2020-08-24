@@ -35,8 +35,10 @@
 ### Languages and Tools:
 <table>
 <tr>
-    <td><h5>:zap: Frontend</h5></td>
-    <td><h5>:zap: Backend</h5></td>
+    <td><h5 align="center">:zap: Frontend</h5></td>
+    <td><h5 align="center">:zap: Backend</h5></td>
+    <td><h5 align="center">:zap: Database</h5></td>
+    <td><h5 align="center">:zap: DevOps</h5></td>
 </tr>
 <tr>
     <td valign="top"> 
@@ -49,7 +51,6 @@
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30" height="30"/>
         <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/>
-</p>
     </td>
     <td valign="top"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> 
@@ -57,24 +58,20 @@
         <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/>
     </td>
- </tr>
- </table>
- 
-<summary><h5>:zap: Databases</h5></summary>
-<p>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/>
-</p>
-
-<summary><h5>:zap: DevOps</h5></summary>
-<p>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
-</p>
+     <td valign="top">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/>
+    </td>
+    <td valign="top">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/>
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
+    </td>
+</tr>
+</table>
 
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelayochristian&hide=html&theme=dracula" alt="pelayochristian" /></p>
