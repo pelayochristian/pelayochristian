@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 
-<h5>Christian is a Senior Software Engineer with experience in software development in web & enterprise applications development.</h5>
+<h4>Christian is a Senior Software Engineer with experience in software development in web & enterprise applications development.</h4>
 
-<h5>He is currently working as a Salesforce Developer with experience in SFDC Development implementing the APEX Classes, APEX Triggers, Visual Force pages, Lightning Web Component, Aura Framework, SFDX, Intellij or VSCode with SOQL, SOSL, and Plug-ins.</h5>
+<h4>He is currently working as a Salesforce Developer with experience in SFDC Development implementing the APEX Classes, APEX Triggers, Visual Force pages, Lightning Web Component, Aura Framework, SFDX, Intellij or VSCode with SOQL, SOSL, and Plug-ins.</h4>
 
 
-<h5>Shipped different technology solutions using Java EE and Spring Framework technologies. He has the end to end delivery experience and has successfully delivered projects using Spring Boot, JavaEE, Jersey (JAX RS), JavaScript, jQuery, HTML, CSS, and other custom development tools.</h5>
+<h4>Shipped different technology solutions using Java EE and Spring Framework technologies. He has the end to end delivery experience and has successfully delivered projects using Spring Boot, JavaEE, Jersey (JAX RS), JavaScript, jQuery, HTML, CSS, and other custom development tools.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pelayochristian" alt="pelayochristian" /> </p>
 
