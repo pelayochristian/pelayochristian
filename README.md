@@ -2,7 +2,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 👨‍💻 Check my website [christianpelayo.com](https://christianpelayo.com)
+- 👨‍💻 Check my website [christianpelayo.me](https://christianpelayo.me)
 
 - 💬 Ask me about **enterprise application, web development as well in Salesforce Development, I am happy to help.**
 
